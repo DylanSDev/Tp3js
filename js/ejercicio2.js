@@ -21,7 +21,7 @@ if(ciudades.length > 0)
 
 document.write(`[+] El arreglo tiene ${ciudades.length} ciudades. <br> `);
 document.write("[+] Elemento 1ra posición: " + ciudades[0] + "<br>");
-document.write(`[+] Elemento 3da posición: ${ciudades[2]} <br>`);
+document.write(`[+] Elemento 3ra posición: ${ciudades[2]} <br>`);
 document.write(`[+] Elemento en la ultima posición:  ${ciudades[ciudades.length-1]} <br> <br>`);
 
 ciudades.push("Paris");
